@@ -363,8 +363,7 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Seaborn
   - Export to Illustrator
 - Reading seminar
-  - Introduction: "The Pointillistic City"
-        O'Brien, D. T. (2025). _The Pointillistic City_ ([Link](https://direct.mit.edu/books/oa-monograph/5893/chapter/5292757/Introduction-The-Pointillistic-City))
+  - [Chapter 1: "Graphical Excellence" pp. (13–51)] Tufte, E. R. (2001). _The Visual Display of Quantitative Information, 2nd Ed._ (2nd edition). Graphics Press.
 
 ### March 12 (Week 7)
 
@@ -407,8 +406,7 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 - Dashboards
 - Reading seminar
-  - \[Chapter 7: “Smart Cities as the New Uneven Development” (pp. 181–200)\]  
-        Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
+  - Owusu, F., Huberts, A., Moore, D., Hecht, A., & Quinney, S. (2025). Can Targeting Messages to High-Risk Drivers Prevent Future Citations and Crashes? Evidence from a Randomized Pilot in Washington, DC. The Lab DC, District of Columbia Government. <https://thelabprojects.dc.gov/high-risk-drivers>
 
 ### April 23 (Week 12)
 
